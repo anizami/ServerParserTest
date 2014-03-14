@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab081451-256b-4cbe-acea-f3bf5b97d043" name="Default" comment="" />
+    <list default="true" id="ab081451-256b-4cbe-acea-f3bf5b97d043" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ServerParserTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -76,7 +80,7 @@
       <file leaf-file-name="PiperParser.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/PiperParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.61187214" vertical-offset="344" max-vertical-offset="782">
+            <state line="24" column="9" selection-start="711" selection-end="711" vertical-scroll-proportion="0.69863015" vertical-offset="0" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -110,6 +114,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -131,7 +138,7 @@
     <option name="width" value="1360" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -542,16 +549,16 @@
       <updated>1394070544564</updated>
       <workItem from="1394070549118" duration="11686000" />
       <workItem from="1394501950756" duration="1700000" />
-      <workItem from="1394745888762" duration="2487000" />
+      <workItem from="1394745888762" duration="2974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15873000" />
+    <option name="totallyTimeSpent" value="16360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1360" height="728" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -718,7 +725,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/PiperParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1319" selection-end="1319" vertical-scroll-proportion="0.61187214" vertical-offset="344" max-vertical-offset="782">
+        <state line="24" column="9" selection-start="711" selection-end="711" vertical-scroll-proportion="0.69863015" vertical-offset="0" max-vertical-offset="782">
           <folding />
         </state>
       </provider>
