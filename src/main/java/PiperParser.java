@@ -15,6 +15,10 @@ public class PiperParser {
 
 
     public static void parseThroughPiper() {
+
+
+        //Does this work???????
+
         List<String> eventList = new ArrayList<String>();
         String url = "http://webapps.macalester.edu/dailypiper/dailypiper-portal.cfm?expanded=true";
         Document doc = null;
